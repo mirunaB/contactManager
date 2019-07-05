@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/contactManager/static/css/main.36497136.chunk.css",
+    "main.js": "/contactManager/static/js/main.b641f4bc.chunk.js",
+    "main.js.map": "/contactManager/static/js/main.b641f4bc.chunk.js.map",
+    "runtime~main.js": "/contactManager/static/js/runtime~main.63e620a2.js",
+    "runtime~main.js.map": "/contactManager/static/js/runtime~main.63e620a2.js.map",
+    "static/css/2.80eb6780.chunk.css": "/contactManager/static/css/2.80eb6780.chunk.css",
+    "static/js/2.05f6d92b.chunk.js": "/contactManager/static/js/2.05f6d92b.chunk.js",
+    "static/js/2.05f6d92b.chunk.js.map": "/contactManager/static/js/2.05f6d92b.chunk.js.map",
+    "index.html": "/contactManager/index.html",
+    "precache-manifest.9f5018fe05dce963a78dddbfe81a7c24.js": "/contactManager/precache-manifest.9f5018fe05dce963a78dddbfe81a7c24.js",
+    "service-worker.js": "/contactManager/service-worker.js",
+    "static/css/2.80eb6780.chunk.css.map": "/contactManager/static/css/2.80eb6780.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contactManager/static/css/main.36497136.chunk.css.map",
+    "static/media/font-awesome.min.css": "/contactManager/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
